@@ -1,7 +1,7 @@
 ## Ola! sou Jefferson. 🙌
 
-- 🔭 Web developer student.
-- 🌱 Estudando HTML,CSS, Javascript.
+- 🔭 Web developer student. Systems Analysis and Development 3/4.
+- 🌱 Estudando HTML,CSS, Javascript. Java 
 - 😄 Pronouns: Ele/Dele
 
 <div>
